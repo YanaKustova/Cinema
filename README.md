@@ -1,2 +1,2 @@
-# Cinema
+# 🎬 Cinema
 session and location selection
